@@ -33,8 +33,10 @@ O resultado será salvo automaticamente no arquivo `log.txt`.
 
 ## Exemplo de saída
 
+```text
 ==============================
 Verificação: Sun Jun 21 01:44:06 ESAST 2026
 https://google.com - ONLINE
 https://github.com - ONLINE
 https://youtube.com - ONLINE
+```
